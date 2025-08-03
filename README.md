@@ -88,7 +88,7 @@ Implemented a custom function to summarize cluster characteristics, enhancing in
 📊 Power BI File:** Interactive dashboard presenting visual insights. 
 ### 📊 Power BI Dashboard
 
-![Dashboard](C:\Users\admin\Desktop\final casptone p/dashboard.png)
+![Dashboard](C:\Users\admin\Desktop\final casptone p\dashboard.png)
 
 
 
