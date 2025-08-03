@@ -67,7 +67,17 @@ Implemented a custom function to summarize cluster characteristics, enhancing in
 - **📂 Dataset:** Cleaned dataset for full reproducibility.
 
 ---
+## 🛠️ Tools Used
 
+- **Python** 🐍 — For data cleaning, exploratory analysis, and machine learning modeling (clustering).  
+- **Jupyter Notebook** 📓 — Interactive coding environment for analysis and documentation.  
+- **Pandas & NumPy** 📊 — Data manipulation and numerical operations.  
+- **Matplotlib & Seaborn** 📈 — Data visualization libraries for plotting graphs.  
+- **Scikit-learn** 🤖 — Machine learning library for clustering and evaluation metrics.  
+- **Power BI** 📊 — For creating interactive dashboards and visualizing key insights.  
+- **Git & GitHub** 🧑🏽‍💻 — Version control and project repository hosting.
+
+---
 ## 🔮 Future Work
 
 - Integrate socio-economic and healthcare infrastructure data for deeper analysis.  
