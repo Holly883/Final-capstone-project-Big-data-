@@ -85,11 +85,6 @@ Implemented a custom function to summarize cluster characteristics, enhancing in
 - Add AI visuals and live data feeds to Power BI dashboard.
 
 ---
-📊 Power BI File:** Interactive dashboard presenting visual insights. 
-### 📊 Power BI Dashboard
-
-![Dashboard](final casptone p/dashboard.png)
-
 
 
 
