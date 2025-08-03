@@ -1,6 +1,6 @@
 # 🦠 TB Case Trends Across Different Countries - Capstone Project 🌍
 
-**👩🏾‍💻  Muvunyi Holiness ID 27137
+👩🏾‍💻  Muvunyi Holiness ID 27137
 **🏥 Sector:** Health  
 **📊 Project Summary:**  
 Analyzing tuberculosis (TB) case trends across countries using WHO data from 2023. The goal is to identify high TB burden countries and cluster them to support targeted health interventions and resource allocation.  
